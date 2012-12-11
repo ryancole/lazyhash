@@ -1,7 +1,7 @@
 {
   "name": "lazyhash",
   "version": "0.0.1",
-  "description": "",
+  "description": "A simple wrapper around node's built-in pbkdf2 functionality.",
   "main": "src/lazyhash.js",
   "repository": {
     "type": "git",
