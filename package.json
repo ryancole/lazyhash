@@ -1,0 +1,17 @@
+{
+  "name": "lazyhash",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/lazyhash.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryancole/lazyhash.git"
+  },
+  "keywords": [
+    "crypto",
+    "pbkdf2"
+  ],
+  "author": "Ryan Cole",
+  "license": "BSD",
+  "readmeFilename": "readme.md"
+}
