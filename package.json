@@ -13,5 +13,6 @@
   ],
   "author": "Ryan Cole",
   "license": "BSD",
-  "readmeFilename": "readme.md"
+  "readmeFilename": "readme.md",
+  "engine": "node 0.9.3"
 }
